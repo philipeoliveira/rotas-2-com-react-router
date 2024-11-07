@@ -2,7 +2,7 @@
 
 Código em React que cria rotas com React Router.
 
-Nesta versão, o código está refatorado com a criação de um arquivo separado para as rotas.
+Nesta versão, o código está refatorado com a criação de um arquivo separado para as rotas do projeto.
 
 Componentes auxiliares do React Router usados:
 
